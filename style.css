@@ -1,14 +1,4 @@
-<DOCTYPE html>
-  <html>
-    <head> 
-      <meta charset= "utf-8"> 
-         <img src="https://kivasports.net/wp-content/uploads/Pig-Volleyball.jpgalt="multicultural volleyball" weidth="200" height="100">
 
-      <title> CSS Test</title>
-      
-      </head>
-    <body>
-      <style> 
       h1 {color:red;}
  
       h2 {color: blue}
@@ -16,28 +6,3 @@
       
       .level {color: red;
         }
-      
-      </style>
-      <h1> Multicultural volleyball Bcn</h1>
-  
-      
-      <p> <strong>Enjoying volleyball together!!.</strong> <br>No matter if you are begginer or not. We have differents trainings and bootcamps for <em>all levels.</em></p>
-      <h2 id="requirements"><em>There are 3 </em><strong>compulsory</strong> <em>requirements to join us:</em></h2>
-      <ul>
-      <li> Willing to meet new people
-      <li> Wanting to have funn
-      <li> and do not be ashame!!</ul>
-      <em>There are no excuses</em, <strong> YO HAVE IT!</strong> 
-                          <div="general-info"><h3 id="doing">What do we do?</h3>
-                                                            <ul>
-                                                            <li> Relaxed gaming with music and drink.
-                                                            <li> Volleyball as an excuse to get to know new people.
-                                                            <li>Everybody shares the same passion.
-                                                            </ul>
-
-                                        <h4> How is the <span class="level">level?</span> </h4>
-
-                          <p> <strong>Mixed!</strong> We have people who play <em>really well</em> <br>and people <em> who never touched a Volleyball in their life.</em><br> For us going for the balls and showing passion<br> <strong>is everything!!</strong>. If you dont have much experience - dont worry; <br><strong>we will be there to teach you!!</strong>
-                                                                           </p> </div>
-    </body>
-  </html>
