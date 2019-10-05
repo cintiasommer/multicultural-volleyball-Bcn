@@ -1,9 +1,14 @@
 
       h1 {color:red;}
  
-      #requirements {color:"withe"}
+      #requirements {color:white;}
       
       .level {color: red;
         }
-        h2 {color: green}
-   p {color:white}     
+        h2 {color: green;}
+   p {color: brown;}
+   .mycolor {
+     color: aqua;
+   }
+   body {background-color: pink}
+
